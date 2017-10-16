@@ -1,0 +1,5 @@
+nihao
+befor fork
+I am child
+0   a = 6	b = 7
+2992   a = 6	b = 7
